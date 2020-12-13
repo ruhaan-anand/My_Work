@@ -1,0 +1,15 @@
+body{
+   font-family: 'JetBrains Mono', monospace; 
+    background-color: beige;
+    margin: 5%;
+    padding: 1%;
+}
+.game{
+    display: inline-block;
+}
+img{
+    transition: transform 2s;
+}
+img:hover{
+    transform: scale(1.1);
+}
